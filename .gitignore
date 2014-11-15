@@ -1,14 +1,7 @@
-app
-test
+dist
 .tmp
 .sass-cache
-.bowerrc
-.gitattributes
-.jshintrc
 .yo-rc.json
-bower.json
-Gruntfile.js
-package.json
 
 # Ignore docs files
 _gh_pages
