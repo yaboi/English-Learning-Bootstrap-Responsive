@@ -26,7 +26,7 @@ README.me
 **dist/scripts:** JS files  
 **dist/styles:** CSS files  
 
-####Folders
+####Files
 **scripts/vendor/x.modernizr.js:** Compiled, minified js file for [Modernizr](http://modernizr.com/)  
 **scripts/x.vendor.js:** Compiled, minified js file for basic Bootstrap functionality  
 **styles/x.main.css:** Compiled, minified CSS file containing custom and Bootstrap styles
