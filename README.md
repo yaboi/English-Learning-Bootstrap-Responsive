@@ -16,8 +16,6 @@
 |   +-- styles  
 |   |   x.main.css  
 |   index.html  
-.gitignore  
-README.me  
 
 ####Folders
 **dist:** Directory containing WebApp  
