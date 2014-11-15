@@ -1,23 +1,36 @@
 英文学习 - WebApp
 ===============================
 
-Production ready Bootstrap WebApp for 英文学习.
----
+##Production ready Bootstrap WebApp for 英文学习.
 
-**Inside you will find the following:**
+###Inside you will find the following:
 
-+-- dist  *WebApp files*  
-|   +-- bower\_components *font files for glyphicons*  
-|   +-- images *images for WebApp*  
-|   +-- scripts *scripts necessary for basic Bootstrap functionality.*  
+####File Tree
++-- dist  
+|   +-- bower\_components  
+|   +-- images  
+|   +-- scripts  
 |   |   |+-- vendor  
-|   |   |   x.modernizr.js *minified modernizr script, http://modernizr.com/*  
-|   |   x.vendor.js *minified site scripts including jquery and bootstrap*  
-|   +-- styles *styles for WebApp*  
-|   |   x.main.css *minified site styles including bootstrap and custom styles*  
-|   index.html *minified HTML file*  
-.gitignore *Tells git what files to ignore*  
-README.me *Describes this WebApp*  
+|   |   |   x.modernizr.js  
+|   |   x.vendor.js  
+|   +-- styles  
+|   |   x.main.css  
+|   index.html  
+.gitignore  
+README.me  
+
+####Folders
+**dist:** Directory containing WebApp  
+**dist/bower\_componenets:** font files for glyphicons  
+**dist/images:** WebApp images  
+**dist/scripts:** JS files  
+**dist/styles:** CSS files  
+
+####Folders
+**scripts/vendor/x.modernizr.js:** Compiled, minified js file for [Modernizr](http://modernizr.com/)  
+**scripts/x.vendor.js:** Compiled, minified js file for basic Bootstrap functionality  
+**styles/x.main.css:** Compiled, minified CSS file containing custom and Bootstrap styles
+**index.html:** Minified HTML file with WebApps code  
 
 *NOTE: This WebApp has been successfully tested in all modern browsers (Chrome 38.0.2125.122, FireFox 33.1, and Safari 8.0)*
 
