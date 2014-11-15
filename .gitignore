@@ -1,4 +1,11 @@
-dist
+app
+test
+.bowerrc
+.gitattributes
+.jshintrc
+Gruntfile.js
+package.json
+bower.json
 .tmp
 .sass-cache
 .yo-rc.json
